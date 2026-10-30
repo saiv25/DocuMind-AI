@@ -1,0 +1,21 @@
+[
+  {
+    "question": "REPLACE_WITH_A_QUESTION_ANSWERED_BY_YOUR_PDF_1",
+    "expected_keywords": [
+      "replace_keyword_1",
+      "replace_keyword_2"
+    ],
+    "expected_source": "your_document.pdf",
+    "expected_page": 1,
+    "reference_answer": "Write a concise reference answer grounded in the PDF."
+  },
+  {
+    "question": "REPLACE_WITH_A_QUESTION_ANSWERED_BY_YOUR_PDF_2",
+    "expected_keywords": [
+      "replace_keyword_1"
+    ],
+    "expected_source": "your_document.pdf",
+    "expected_page": 2,
+    "reference_answer": "Write a concise reference answer grounded in the PDF."
+  }
+]

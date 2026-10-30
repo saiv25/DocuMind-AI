@@ -1,0 +1,15 @@
+timestamp_utc,workspace_hash,question_hash,model,retrieval_mode,top_k,reranking,verification,retrieval_ms,generation_ms,total_ms,sources_count,success
+2026-10-30T10:30:46.680410+00:00,ecb1f2df9c0d1f88a8d83b8b,f2891fe164ee351314607d09faea378f4f0f9b8b33be5ccb3634843514e8b903,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,34.06,1283.1,1319.3,5,True
+2026-10-30T10:31:02.926128+00:00,ecb1f2df9c0d1f88a8d83b8b,2ea940d98519ff7dbb77609e5c1ded0e7509f465f4ab10865e97099690be7808,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,27.75,2034.89,2062.91,5,True
+2026-10-30T10:31:27.904394+00:00,ecb1f2df9c0d1f88a8d83b8b,7d1bf93402a7e40b01b98a4c1eb351c7f19eda46784cc676dd870b788dc106f8,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,23.82,1481.06,1505.09,5,True
+2026-10-30T10:31:43.140671+00:00,ecb1f2df9c0d1f88a8d83b8b,2aef855586cf6f9e9b361537448890d7cafebc162e5cc519295e2502cce568cc,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,865.89,1324.39,2190.58,5,True
+2026-10-30T10:31:58.304085+00:00,ecb1f2df9c0d1f88a8d83b8b,66cfbbb4286509fe2792d9012278d79172bba13de1fac3e19c977839ded9346d,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,26.65,2153.77,2180.63,5,True
+2026-10-30T10:32:24.788154+00:00,ecb1f2df9c0d1f88a8d83b8b,0aec07a2d4f9d8acb7ae76a00282437cf849b18afce2ce8987df1594fc30119f,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,23.67,1234.45,1258.45,5,True
+2026-10-30T10:33:17.625411+00:00,ecb1f2df9c0d1f88a8d83b8b,cd5356b64aa7ec76f7a3e8892a2b017595a8926d34906a36acabc34e9bc86351,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,29.33,5363.41,5392.97,5,True
+2026-10-30T10:34:32.717764+00:00,ecb1f2df9c0d1f88a8d83b8b,592343242ca078e958bd8dfbd0f697d9fabbdf6c9a1ea4489e08e7e498cc6328,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,25.08,1602.92,1628.24,5,True
+2026-10-30T10:34:56.860979+00:00,ecb1f2df9c0d1f88a8d83b8b,01b62ff5b2e75f0b04e1e9b6b1acdcb284efc5a3efdadced57b2ef432e59ad08,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,1049.31,2668.6,3718.21,5,True
+2026-10-30T10:37:57.887417+00:00,ecb1f2df9c0d1f88a8d83b8b,e9a9e9c03cb959481448b12c36fe08135c283629e2b7d765bb3b4ee173f4868b,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,52.43,3376.39,3429.05,5,True
+2026-10-30T10:42:13.418002+00:00,ecb1f2df9c0d1f88a8d83b8b,9a6f8595e00c9e41d33de551ea0f2d198e0a6428747ab21cf48e2bccb242a95c,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,28.07,1525.16,1553.68,5,True
+2026-10-30T10:42:30.399123+00:00,ecb1f2df9c0d1f88a8d83b8b,eb2331fd5a423737a7e4c8152cd190875c4782cffb8ef6ca91d0d3b916fb8c92,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,42.42,1316.01,1358.67,5,True
+2026-10-30T10:42:56.039218+00:00,ecb1f2df9c0d1f88a8d83b8b,3f93d15bdc9b18cacca1680cee8ab76beae5e8752ab7d2ecec1a9e4723fc169e,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,565.44,1305.83,1871.49,5,True
+2026-10-30T10:43:15.201632+00:00,ecb1f2df9c0d1f88a8d83b8b,574eb22dfcaeafd50cd12815b4fabd8c948ec10d790ec7100d3de212195fdfbc,openai/gpt-oss-20b,hybrid_bm25_dense_rrf,5,False,True,882.37,4551.38,5434.01,5,True
