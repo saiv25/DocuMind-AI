@@ -6,10 +6,7 @@ DocuMind AI processes documents, extracts relevant information, retrieves suppor
 
 ## 🚀 Live Demo
 
-**Application:** 
-
-**GitHub Repository:** 
-
+**Application:** https://documind-ai-rag-project.streamlit.app/
 ## ✨ Features
 
 - **Multi-format Upload:** Supports PDF documents, images, audio files, and video files.
